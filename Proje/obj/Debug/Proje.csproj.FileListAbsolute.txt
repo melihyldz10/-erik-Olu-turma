@@ -1,0 +1,48 @@
+C:\Users\melih\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\melih\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\melih\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.Login.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.Register.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.Home.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.home2.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.getHelp.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.feedBack.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.getAbout.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.getHelpS.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.settings.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.myContent.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.csproj.ResolveComReference.cache
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.Contents.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.ContentsNedir.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.ContentSeo.resources
+C:\Users\melih\source\repos\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.csproj.ResolveComReference.cache
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.Contents.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.ContentSeo.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.ContentsNedir.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.feedBack.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.getAbout.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.getHelp.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.getHelpS.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.Home.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.home2.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.Login.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.myContent.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.Register.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.settings.resources
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\melih\OneDrive\Masaüstü\Dersler\Bahar Dönemi\Görsel Programlama 1-2\Görsel programlama 2\Proje\İçerik Olusturma Yardımcısı - 190111063-Melih Gazi Yıldız\Proje\Proje\obj\Debug\Proje.pdb
